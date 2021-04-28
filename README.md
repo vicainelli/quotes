@@ -7,3 +7,6 @@ Inspiring quotes, IMHO
 
 > "Speed is irrelevant if you are going in the wrong direction."   
 ― Mahatma Gandhi
+
+> “Never memorize something that you can look up.”    
+― Albert Einstein
