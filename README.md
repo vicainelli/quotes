@@ -10,3 +10,6 @@ Inspiring quotes, IMHO
 
 > “Never memorize something that you can look up.”    
 ― Albert Einstein
+
+> "I can make it work, but I have no idea what I'm doing."
+> Someone on Twitter
