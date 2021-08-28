@@ -29,3 +29,8 @@ Inspiring quotes, IMHO
 > "If you be here to be critical of what has already been done, you're late, you should be here before to help."
 
 ― By who did when no one wants to do.
+
+---
+
+> "Only half of programming is coding the other 90  is debugging"
+― Anonymous
