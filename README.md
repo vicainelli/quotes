@@ -32,5 +32,5 @@ Inspiring quotes, IMHO
 
 ---
 
-> "Only half of programming is coding the other 90  is debugging"
+> "Only half of programming is coding. The other 90% is debugging."
 ― Anonymous
